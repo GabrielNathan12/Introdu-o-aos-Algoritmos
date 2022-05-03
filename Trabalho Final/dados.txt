@@ -1,0 +1,14 @@
+				**** TEMPERATURAS DA SEMANA ****
+					RESULTADOS OBTIDOS:
+
+
+
+			ID	Dia		Temperatura		Humidade
+
+				  CÁLCULOS EFETUADOS COM ALTA PRECISÃO.
+
+			     *********************************************
+
+			     Dados processados com o programa de monitoramento climátco, V. 1.0.5-Beta
+ 		 Departamento de Ciência da Computação - Universidade Federal de Lavras
+ 					    dcc@dcc.ufla.br
